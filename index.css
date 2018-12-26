@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+header{
+    background-image: url("/cs6-simple-recap/images/bg-masthead.jpg");
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    z-index: -10;
+
+}
+.navou{ 
+padding-left: 250px;   
+
+}
+.houme{
+padding-right: 450px !important;
+
+}
+.grayspace{
+    margin-top: 200px
+}
+.loulou{
+    padding-top: 50px;
+}
+.ipad{
+    width: 600px;
+}
